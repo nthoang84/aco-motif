@@ -1,0 +1,23 @@
+Data type	Dataset	Motif size
+Simulated	1 LLH	20
+Simulated	2 LLL	20
+Simulated	3 LSH	10
+Simulated	4 SLH	20
+Simulated	5 SLL	20
+Simulated	6 SSH	10
+ChIP-seq	GATA2	14
+ChIP-seq	GATA3	8
+ChIP-seq	IRF1	21
+ChIP-seq	NFE2L2	15
+ChIP-seq	TFAP2A	15
+Real	CREB	12
+Real	CRP	22
+Real	HNF1	14
+Real	MCB	6
+Real	MEF2	10
+Real	MYOD	6
+Real	NFKB	12
+Real	PDR3	8
+Real	REB1	10
+Real	SRF	12
+Real	TBP	7
